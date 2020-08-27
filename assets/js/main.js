@@ -39,8 +39,9 @@
 							'images/bg01.jpg': 'center',
 							'images/rech.jpg': 'center',
 							'images/bg02.jpg': 'center',
+							'images/two_charleses.jpg': 'center',
 							'images/bg03.jpg': 'center',
-							'images/le_cassa.jpg': 'center'
+							'images/chera_reader.jpg': 'center'							
 						},
 
 					// Delay.

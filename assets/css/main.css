@@ -20,7 +20,7 @@ section, summary, time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 100%;
+  font-size: 85%;
   font: inherit;
   vertical-align: baseline; }
 
@@ -271,7 +271,7 @@ a {
 
 strong, b {
   color: #fff;
-  font-weight: 700; }
+  font-weight: 400; }
 
 em, i {
   font-style: italic; }
@@ -281,7 +281,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   color: #fff;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1em;
   margin: 0 0 1em 0; }
   h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -414,7 +414,7 @@ header h6 + p {
   .icon:before {
     line-height: inherit; }
   .icon.solid:before {
-    font-weight: 900; }
+    font-weight: 400; }
   .icon.brands:before {
     font-family: 'Font Awesome 5 Brands'; }
 
@@ -446,7 +446,11 @@ ul.icons {
     ul.icons li .icon:before {
       font-size: 1.25em; }
     ul.icons li a {
-      color: inherit; }
+      color: #1cb495; }
+
+.copyright li a {
+  color: yellow;
+}
 
 /* Form */
 form {
@@ -474,7 +478,7 @@ form {
       line-height: 1;
       text-transform: none !important;
       font-family: 'Font Awesome 5 Free';
-      font-weight: 900; }
+      font-weight: 400; }
     form .message:before {
       margin-right: 0.5em; }
     form .message.visible {
@@ -496,7 +500,7 @@ label {
   color: #fff;
   display: block;
   font-size: 0.9em;
-  font-weight: 700;
+  font-weight: 400;
   margin: 0 0 1em 0; }
 
 @-moz-keyframes focus {
@@ -671,7 +675,7 @@ input[type="radio"] {
       line-height: 1;
       text-transform: none !important;
       font-family: 'Font Awesome 5 Free';
-      font-weight: 900; }
+      font-weight: 400; }
     input[type="checkbox"] + label:before,
     input[type="radio"] + label:before {
       background: rgba(255, 255, 255, 0.125);
@@ -783,7 +787,8 @@ button,
 
 /* Header */
 #header h1 {
-  font-size: 3.25em;
+  font-size: 4.5em;
+  font-weight: 300;
   margin: 0 0 0.55em 0; }
 
 #header p {
@@ -867,7 +872,7 @@ button,
         margin-left: 0;
         padding-left: 0; }
     #footer .copyright a {
-      color: inherit; }
+      color: #fff; }
   #footer:hover {
     opacity: 1; }
   #footer > :last-child {

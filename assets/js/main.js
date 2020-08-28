@@ -41,7 +41,8 @@
 							'images/bg02.jpg': 'center',
 							'images/two_charleses.jpg': 'center',
 							'images/bg03.jpg': 'center',
-							'images/chera_reader.jpg': 'center'							
+							'images/chera_reader.jpg': 'center',							
+							'images/triumverate.jpg': 'center'							
 						},
 
 					// Delay.

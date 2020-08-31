@@ -821,9 +821,10 @@ button,
     width: 18em; }
   #signup-form > * {
     margin: 0 0 0 1em;
-    float: left; }
+     }
   #signup-form > :first-child {
-    margin: 0 0 0 0; }
+    margin: 0 0 0 0;
+    float: left; }
   @media screen and (max-width: 480px) {
     #signup-form {
       -moz-flex-direction: column;

@@ -36,13 +36,18 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
+							'images/img6.jpg': 'center',
 							'images/bg01.jpg': 'center',
-							'images/rech.jpg': 'center',
+							'images/img3.jpeg': 'center',
 							'images/bg02.jpg': 'center',
-							'images/two_charleses.jpg': 'center',
-							'images/bg03.jpg': 'center',
-							'images/chera_reader.jpg': 'center',							
-							'images/triumverate.jpg': 'center'							
+							'images/img7.jpg': 'center',							
+							'images/img2.jpeg': 'center',
+							'images/img8.jpg': 'center',
+							'images/bg03.jpg': 'center',							
+							'images/img9.jpeg': 'center',							
+							'images/img5.jpg': 'center',							
+							'images/img4.jpeg': 'center',							
+							'images/img1.jpeg': 'center'							
 						},
 
 					// Delay.
